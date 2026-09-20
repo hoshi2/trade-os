@@ -8,4 +8,4 @@ XAUUSD裁量トレード用の自作トレード管理アプリ（単一HTMLフ�
 - データはブラウザの `localStorage`（`tos_cfg` / `tos_log` / `tos_state`）に入る。
   保存先は `hoshi2.github.io` という住所全体に紐づくため、URLが
   `/roy-log/trade-os/` から `/trade-os/` に変わってもデータは引き継がれる。
-- 方針・トレードルールの詳細は `rules-docs/docs/trade-os.md` にある。
+- 方針・トレードルールの詳細は `NOTES.md` にある。
